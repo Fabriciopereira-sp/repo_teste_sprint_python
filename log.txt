@@ -1,0 +1,1 @@
+2025-10-06 20:29:40 | SETUP_DB | Conexão Oracle estabelecida com sucesso.
