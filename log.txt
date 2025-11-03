@@ -1,5 +1,0 @@
-2025-10-06 20:29:40 | SETUP_DB | Conexão Oracle estabelecida com sucesso.
-2025-10-12 16:20:33 | API_VIACEP_NOT_FOUND | 05536887
-2025-10-12 16:20:53 | API_VIACEP_OK | 05594001 -> Rua Augusto Farina
-2025-10-12 16:20:53 | DB_CONNECT | Conexão Oracle estabelecida.
-2025-10-12 16:20:54 | CRUD_CREATE | ID=2 nome=leo
