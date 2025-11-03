@@ -1,3 +1,10 @@
+Integrantes:
+Fabrício Henrique Pereira RM563237
+Leonardo José Pereira RM563065
+Ícaro Jose dos Santos RM562403
+
+
+
 Documentação de Setup do Sistema CRUD Python + Oracle
 
 Contexto do Projeto (FIAP - Sprint 4)
@@ -6,7 +13,7 @@ Este documento visa guiar a configuração e a execução do sistema de Gerencia
 
 1. Requisitos de Ambiente
 
-Para a execução bem-sucedida da aplicação, é imprescindível que o ambiente de trabalho atenda aos seguintes pré-requisitos:
+Para a execução bem-sucedida da aplicação, é importante que o ambiente de trabalho atenda aos seguintes pré-requisitos:
 
 Componente
 
